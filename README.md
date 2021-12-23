@@ -29,7 +29,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="seong.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seong.dev@gmail.com"/></a>
+   <a href="mailto:seong.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seong.dev@gmail.com"/></a>
 </p>
 <br>
 <br>
