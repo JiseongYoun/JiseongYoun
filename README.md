@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiseongYoun&fontSize=70&animation=twinkling)
-
 <br>
 
 <br>
-<p align="center">Developer</p>
+<p align="center">
+  <a href="https://github.com/devxb/CommitCombo">
+    <img src="http://commitcombo.com/theme?user=jiseongyoun"/>
+  </a>
+</p>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used at least once. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
