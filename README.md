@@ -3,7 +3,6 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/theme?user=jiseongyoun"/>
   </a>
 </p>
