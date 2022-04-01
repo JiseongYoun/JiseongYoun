@@ -3,7 +3,6 @@
 
 <br>
 <p align="center">
-    <img src="http://commitcombo.com/theme?user=jiseongyoun"/>
   </a>
 </p>
 <br>
